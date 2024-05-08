@@ -1118,6 +1118,11 @@ a {
 
 @media only screen and (max-width: 470px){
 
+  .deskripsi-home{
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-right: 10px;
+  }
   .deskripsi-home .hi-2{
     font-size: 50px;
   }
@@ -1131,7 +1136,13 @@ a {
   .quality{
     gap: .7rem;
   }
-  
+  .rooms{
+    padding: 30px;
+  }
+  .container-rooms{
+    padding: 0;
+  }
+
   .img-service2{
     margin-left: 0;
   }
